@@ -1,0 +1,36 @@
+<annotation>
+	<filename>J01_2018.06.28_15_47_09.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rubbing-hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>964</xmin>
+			<ymin>1400</ymin>
+			<xmax>1046</xmax>
+			<ymax>1488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rubbing-hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1066</xmin>
+			<ymin>1286</ymin>
+			<xmax>1130</xmax>
+			<ymax>1410</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.28_15_46_45.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rubbing-hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1328</xmin>
+			<ymin>1199</ymin>
+			<xmax>1421</xmax>
+			<ymax>1324</ymax>
+		</bndbox>
+	</object>
+</annotation>
